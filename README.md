@@ -1,1 +1,2 @@
-# homework by lilingrui
+# homework1
+求导
